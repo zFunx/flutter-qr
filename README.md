@@ -1,16 +1,10 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter QR Scanner and Generator
+What I learned from this project:
+1. Built-in widgets like Scaffold, Column, SingleChildScrollView, ElevatedButton, etc
+1. How to create a Stateful Widget
+1. How to navigate between pages
+1. Asynchronous programming
+1. How to generate QR code using `qr_flutter` package
+1. How to scan QR code using `barcode_scan2` package
+1. How to use `if` in an array
+1. Learned how to use `TextEditingController`. It is used to manage the text of a `TextField`. It allows you to retrieve, modify, and listen to the text content programmatically.
